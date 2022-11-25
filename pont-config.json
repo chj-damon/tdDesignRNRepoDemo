@@ -1,0 +1,6 @@
+{
+  "outDir": "./src/api",
+  "templatePath": "./pontTemplate",
+  "usingMultipleOrigins": true,
+  "origins": []
+}
